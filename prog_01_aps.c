@@ -4,7 +4,7 @@
 void interface()
 {
     printf("===========================\n");
-    printf("  powered by UNICARIOCA       \n");
+    printf("  CALCULADORA DE MEDIA       \n");
     printf("===========================\n\n");
     
 }
@@ -68,8 +68,8 @@ int main()
         system("cls");
     }
     /*
-    Programa 01 - APS 
-    Alunos:Pedro Milck e Erick Klava
+    Programa 01 - Atividade Prática supervisionada
+    Unicarioca
     */
 
 
